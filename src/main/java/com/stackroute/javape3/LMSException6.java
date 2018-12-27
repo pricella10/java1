@@ -1,4 +1,4 @@
-package com.stackroute;
+package com.stackroute.javape3;
 
 public class LMSException6 {
 
