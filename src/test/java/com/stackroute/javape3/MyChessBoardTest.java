@@ -26,6 +26,6 @@ public class MyChessBoardTest {
     @Test
     public void chesspatternFailure(){
         String[][] str1=new String[][]{};
-        ass
+
     }
 }
