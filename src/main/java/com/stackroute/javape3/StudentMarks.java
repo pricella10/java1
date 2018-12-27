@@ -1,13 +1,23 @@
 package com.stackroute.javape3;
 
-public class StudentMarks {
-    private int noOfStudents;   //take it from user
+public class StudentMarks
+{
+    public static boolean studentmarks(int grade)
 
-    public int [] stuGrades;  //take it from user
-
-    public String checkForGrades(int no_of_students , int[] grades){
-        //write your own logic
-        return null;
+    {
+        if(grade<0 && grade>100)
+        {
+            return true;
+        }
+        else if(grade<0)
+        {
+            return false;
+        }
+        else if(grade>100)
+        {
+            return false;
+        }
+        else
+            return true;
     }
-
 }
