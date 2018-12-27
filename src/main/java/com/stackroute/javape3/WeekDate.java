@@ -1,7 +1,5 @@
 package com.stackroute.javape3;
-import java.util.*;
-import java.time.*;
-import java.text.*;
+
 
 public class WeekDate {
     //get the current date
