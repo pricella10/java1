@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a34fa5e-74ff-4e56-bbba-9769ff0ab4a3" name="Default Changelist" comment="" />
+    <list default="true" id="5a34fa5e-74ff-4e56-bbba-9769ff0ab4a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="96b138c5-25f9-44ce-b4a0-86c9937cf75c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +41,8 @@
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
               </folding>
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -38,7 +51,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/RemoveVowels.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" /><file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,24 +71,46 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/AdditionTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException7Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="390">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Pe3/src/main/java/com/stackroute/Addition.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="50" selection-end-column="9" />
+
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="73" />
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +122,9 @@
       <list>
         <option value="Class" />
         <option value="JUnit4 Test Class" />
+
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,6 +140,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/RemoveVowelsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException7Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException7.java" />
       </list>
     </option>
   </component>
@@ -102,11 +154,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
-    <option name="y" value="47" />
-    <option name="width" value="1400" />
-    <option name="height" value="833" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,17 +179,29 @@
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -142,6 +209,7 @@
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -150,12 +218,15 @@
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -163,6 +234,7 @@
             <path>
               <item name="pe3javatestcases" type="b2602c69:ProjectViewProjectNode" />
               <item name="java1" type="462c0819:PsiDirectoryNode" />
+              <item name="Pe3javatestcase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -178,10 +250,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545914552854" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545913957544" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Pe3/src/main/java/com/stackroute/Addition.java" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -190,6 +262,15 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545914109308" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,6 +283,62 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LMSException7Test">
+    <configuration name="LMSException7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe3javatestcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.javape3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.javape3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.LMSException7Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LMSException7Test.mainOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe3javatestcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.javape3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.javape3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.LMSException7Test" />
+      <option name="METHOD_NAME" value="mainOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LMSException7Test.mainTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe3javatestcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.javape3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.javape3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.LMSException7Test" />
+      <option name="METHOD_NAME" value="mainTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LMSException7Test" />
+        <item itemvalue="JUnit.LMSException7Test.mainOne" />
+        <item itemvalue="JUnit.LMSException7Test.mainTwo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -263,16 +400,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="73" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/MyChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/MyChessBoard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -299,13 +463,28 @@
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
           </folding>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="270" column="10" lean-forward="true" selection-start-line="270" selection-start-column="10" selection-end-line="270" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/AdditionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/StudentMarks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -320,6 +499,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
