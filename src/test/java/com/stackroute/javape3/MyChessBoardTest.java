@@ -25,7 +25,8 @@ public class MyChessBoardTest {
     }
     @Test
     public void chesspatternFailure(){
-        String[][] str1=new String[][]{};
+        String[][] str1=new String[][]{{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"}};
+        assertNotSame(str1,cb.chesspattern(new String[8][8]));
 
     }
 }
