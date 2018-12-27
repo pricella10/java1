@@ -23,4 +23,9 @@ public class MyChessBoardTest {
         assertArrayEquals(str,cb.chesspattern(new String[8][8]));
 
     }
+    @Test
+    public void chesspatternFailure(){
+        String[][] str1=new String[][]{};
+        ass
+    }
 }
