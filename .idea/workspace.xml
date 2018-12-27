@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b138c5-25f9-44ce-b4a0-86c9937cf75c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="285">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -161,7 +160,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545913869353" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545914109308" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -297,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

@@ -19,10 +19,8 @@ public class MyChessBoardTest {
 
     @Test
     public void chesspattern() {
-        String[][] strg=null;
         String[][] str= new String[][]{{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"},{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"},{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"},{"WW|","BB|","WW|","BB|","WW|","BB|","WW|","BB|"},{"BB|","WW|","BB|","WW|","BB|","WW|","BB|","WW|"}};
         assertArrayEquals(str,cb.chesspattern(new String[8][8]));
-        assertNull(cb.chesspattern(strg));
     }
     @Test
     public void chesspatternFailure(){
