@@ -22,8 +22,7 @@ public class PrintExceptionTest {
     @Test
     public void negativeArraySizeTest(){
         String expected = "class java.lang.NegativeArraySizeException";
-        String actual = pe.negativeArraySize();
-        assertEquals(expected,actual);
+        assertEquals(expected,pe.negativeArraySize());
 
 
     }
@@ -34,8 +33,7 @@ public class PrintExceptionTest {
     @Test
     public void indexOutOfBound(){
         String expected = "class java.lang.ArrayIndexOutOfBound";
-        String actual = pe.indexOutOfBound();
-        assertEquals(expected,actual);
+        assertEquals(expected,pe.indexOutOfBound());
 
 
     }
@@ -44,8 +42,7 @@ public class PrintExceptionTest {
     @Test
     public void nullPointer(){
         String expected = "class java.lang.NullPointerException";
-        String actual = pe.nullPointer();
-        assertEquals(expected,actual);
+        assertEquals(expected,pe.nullPointer(););
 
 
     }}

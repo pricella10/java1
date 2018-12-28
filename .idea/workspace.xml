@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b138c5-25f9-44ce-b4a0-86c9937cf75c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/RemoveVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/RemoveVowelsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/LMSException6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/LMSException7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/LMSException6Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/LMSException7Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/printException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/PrintException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/LMSException6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/MyChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/MyChessBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/printException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/LMSException6Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="271">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -212,7 +196,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545969727686" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545970869763" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -368,7 +352,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="271">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
